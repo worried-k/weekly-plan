@@ -1,0 +1,18 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.3.0",
+	"appid": "wx34915c16f1035038",
+	"projectname": "weekly-plan",
+	"debugOptions": {},
+	"packOptions": {
+    "ignore": []
+  }
+}
