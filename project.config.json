@@ -8,11 +8,12 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.3.0",
+	"libVersion": "2.4.0",
 	"appid": "wx34915c16f1035038",
 	"projectname": "weekly-plan",
 	"debugOptions": {},
 	"packOptions": {
-    "ignore": []
-  }
+		"ignore": []
+	},
+	"condition": {}
 }
